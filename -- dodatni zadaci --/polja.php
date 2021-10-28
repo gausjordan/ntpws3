@@ -21,8 +21,10 @@
 
         <?php
             if (!(empty($_GET['ocj1']) || empty($_GET['ocj2']))) {
+
                 $ocj1 = $_GET['ocj1'];
                 $ocj2 = $_GET['ocj2'];
+                
                 if ($ocj1<1 || $ocj1>5 || $ocj2<1 || $ocj2>5) {
                     echo "Ocjene moraju biti između 1 i 5.";
                 }
@@ -33,8 +35,9 @@
                     echo "Prosjek ocjena je: " . round(($ocj1 + $ocj2)/2);
                 }
             }
+            
             else {
-                
+                # GET nije ništa primio; prikazuje se ništa.
             }
         ?>
 
