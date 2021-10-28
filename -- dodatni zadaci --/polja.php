@@ -3,7 +3,6 @@
 
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta charset="utf-8"> 
     </head>
 
     <body>
@@ -35,7 +34,7 @@
                     echo "Prosjek ocjena je: " . round(($ocj1 + $ocj2)/2);
                 }
             }
-            
+
             else {
                 # GET nije ništa primio; prikazuje se ništa.
             }
