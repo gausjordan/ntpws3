@@ -1,25 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		
-		<link rel="stylesheet" href="stil.css">
-		
-		<title>EcoToothpick empire - Gallery</title>
-	</head>
-<body>
-	<header>
-		<div class="cover-image"></div>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="news.html">News</a></li>
-				<li><a href="contact.html">Contact</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="gallery.html">Gallery</a></li>
-			</ul>
-		</nav>
-	</header>
-	<main>
+<?php
+	echo '
 		<h1>Gallery</h1>
 		<div id="gallery">
 			<figure id="01">
@@ -63,11 +43,5 @@
 				<figcaption>Made for an avid hobbyist.<figcaption>
 			</figure>			
 		</div>
-	</main>
-
-	<footer>
-		<p>Copyright &copy; 2021. Armando Filipi. <a href="https://github.com/gausjordan/ntpws2"><img src="img/GitHub-Mark-64px.png" style="filter: invert(1)" title="Github" alt="Github"></a></p>
-	</footer>
-
-</body>
-</html>
+	';
+?>
