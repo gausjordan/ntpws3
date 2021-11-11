@@ -5,7 +5,7 @@
 		<h2>The World\'s leading reusable toothpick supplier</h2>
 		<figure>
 			<img src="img/slika1.jpg" alt="Reusable pick with a bowl of fruits" title="Reusable pick with a bowl of fruits" class="inLineSlika" style="content: \'\'; clear: both">
-			<figcaption>A bowl of fruits featuring an EcoPick model PP-12 <time datetime="1914">&copy;2021.</time>.</figcaption>
+			<figcaption>A bowl of fruits featuring an EcoPick model PP-12 <time datetime="1914">&copy;2021.</time></figcaption>
 		</figure>
 		<p>We specialize in the fine art of premium quality reusable tooth pick craftsmanship. Our product line-up begins with fun and easy-to-use picktation devices engineered for home use, and climbs all the way up to professional computer-aided apparatice.</p>
 		<p>EcoPicks Exquisite™ family of products provides a wider range of customizable features, most notably each specimen\'s respective size, width and manufacturing peculiarities.</p>
